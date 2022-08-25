@@ -21,7 +21,7 @@ const About = () => {
            
           </p>
           <p className='py-2 text-gray-600'>
-            Fascinated with how intricate programming can be, my mission is  to design solutions that improve the quality of lives of millions of peopleand to grow and evovle both in my stack and as a person in general.
+            Fascinated with how intricate programming can be, my mission is  to design solutions that improve the quality of lives of millions of people and to grow and evolve both in my stack and as a person in general.
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
